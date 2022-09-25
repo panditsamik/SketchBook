@@ -13,5 +13,5 @@ It can be customized according to the colours given in the Palette.
 # Demonstration Video Link
 https://drive.google.com/file/d/11t3IPjEBeCWk4dlXtrry5wssG_cNt0LF/view?usp=sharing
 
-# Develeoper:
+# Developer:
 panditsamik25@gmail.com
